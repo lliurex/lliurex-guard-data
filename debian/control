@@ -2,8 +2,8 @@ Source: lliurex-guard-data
 Section: admin
 Priority: extra
 Maintainer: José A. Murcia <joamuran@gmail.com>
-Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
 Homepage: http://www.lliurex.net
    
 
