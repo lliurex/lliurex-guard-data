@@ -1,7 +1,7 @@
 Source: lliurex-guard-data
 Section: admin
 Priority: extra
-Maintainer: José A. Murcia <joamuran@gmail.com>
+Maintainer: Equipo LliureX <lliurex@gva.es>
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.1.2
 Homepage: http://www.lliurex.net
@@ -12,6 +12,6 @@ Depends: ${misc:Depends}
 Architecture: all
 Description: Data for lliurex-guard
  Provides lists of domains for
- LliureX Guard / Squid proxy.
+ LliureX Guard
 
 
