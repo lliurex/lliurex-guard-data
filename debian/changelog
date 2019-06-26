@@ -1,3 +1,9 @@
+lliurex-guard-data (0.9) bionic; urgency=medium
+
+  * New list for new lliurex-guard
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 26 Jun 2019 17:46:06 +0200
+
 lliurex-guard-data (0.8) bionic; urgency=medium
 
   * Initial release for bionic
