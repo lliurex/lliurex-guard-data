@@ -1,3 +1,9 @@
+lliurex-guard-data (0.19) focal; urgency=medium
+
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 02 Feb 2021 16:36:00 +0100
+
 lliurex-guard-data (0.9) bionic; urgency=medium
 
   * New list for new lliurex-guard
