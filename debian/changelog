@@ -1,3 +1,9 @@
+lliurex-guard-data (0.20) focal; urgency=medium
+
+  * List has been formated with address due to dnsmasq error
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 31 May 2023 15:58:14 +0200
+
 lliurex-guard-data (0.19) focal; urgency=medium
 
   * Initial release for focal
