@@ -1,0 +1,17 @@
+Source: lliurex-guard-data
+Section: admin
+Priority: extra
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: http://www.lliurex.net
+   
+
+Package: lliurex-guard-data
+Depends: ${misc:Depends}
+Architecture: all
+Description: Data for lliurex-guard
+ Provides lists of domains for
+ LliureX Guard
+
+

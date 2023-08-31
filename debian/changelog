@@ -1,0 +1,84 @@
+lliurex-guard-data (0.21.1) focal; urgency=medium
+
+  * fix blacklist
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 06 Jun 2023 11:35:39 +0200
+
+lliurex-guard-data (0.21) focal; urgency=medium
+
+  * Deleted lines with backslash
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 05 Jun 2023 18:30:33 +0200
+
+lliurex-guard-data (0.20.1) focal; urgency=medium
+
+  * Fix problem with ips
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 31 May 2023 17:32:59 +0200
+
+lliurex-guard-data (0.20) focal; urgency=medium
+
+  * List has been formated with address due to dnsmasq error
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 31 May 2023 15:58:14 +0200
+
+lliurex-guard-data (0.19) focal; urgency=medium
+
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 02 Feb 2021 16:36:00 +0100
+
+lliurex-guard-data (0.9) bionic; urgency=medium
+
+  * New list for new lliurex-guard
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 26 Jun 2019 17:46:06 +0200
+
+lliurex-guard-data (0.8) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 15 Feb 2019 10:50:24 +0100
+
+lliurex-guard-data (0.7) xenial; urgency=high
+
+  * Xenial Initial Release
+
+ -- joamuran <joamuran@gmail.com>  Fri, 01 Apr 2016 09:46:44 +0200
+
+lliurex-guard-data (0.6) trusty; urgency=high
+
+  * Moved /etc/lliurex-guard-standalone to /etc/lliurex-guard-data and created links
+
+ -- joamuran <joamuran@gmail.com>  Fri, 04 Dec 2015 10:42:39 +0100
+
+lliurex-guard-data (0.5) trusty; urgency=high
+
+  * Added json lists description file
+
+ -- joamuran <joamuran@gmail.com>  Tue, 01 Dec 2015 12:16:37 +0100
+
+lliurex-guard-data (0.4) trusty; urgency=high
+
+  * Upgraded to trusty
+
+ -- José A. Murcia <joamuran@gmail.com>  Thu, 30 Apr 2015 14:22:34 +0200
+
+lliurex-guard-data (0.3) precise; urgency=high
+
+  * Added "." to the begining of each domain
+  * Removed IPs from domain lists
+
+ -- José A. Murcia <joamuran@gmail.com>  Tue, 10 Mar 2015 12:31:04 +0100
+
+lliurex-guard-data (0.2) precise; urgency=medium
+
+  * removed dependency from lliurex-guard-standalone
+
+ -- José A. Murcia <joamuran@Tao>  Mon, 23 Feb 2015 14:07:09 +0100
+
+lliurex-guard-data (0.1) precise; urgency=medium
+
+  * Initial release.
+
+ -- José A. Murcia <joamuran@gmail.com>  Mon, 23 Feb 2015 09:10:11 +0100
