@@ -1,0 +1,20 @@
+#NAME:Default office list
+#DESCRIPTION: Defautl url to office applications
+server=/microsoft.com
+server=/microsoft.net
+server=/microsoftonline
+server=/windows.com
+server=/live.com
+server=/msn.com
+server=/cloud.microsoft
+server=/static.microsoft
+server=/usercontent.microsoft
+server=/outlook.com
+server=/hotmail.com
+server=/gfx.ms
+server=/office.net
+server=/office.com
+server=/office365.com
+server=/onedrive.com
+server=/1drv.ms
+server=/sharepoint.com
