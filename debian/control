@@ -14,4 +14,12 @@ Description: Data for lliurex-guard
  Provides lists of domains for
  LliureX Guard
 
+Package: lliurex-guard-data-natfree
+Depends: ${misc:Depends}
+Architecture: all
+Description: Data for lliurex-guard-natfree
+ Provides whitelists of domains for
+ LliureX Guard Natfree
+
+
 
