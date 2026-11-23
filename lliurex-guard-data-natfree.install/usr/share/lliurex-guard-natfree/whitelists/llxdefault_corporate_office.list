@@ -1,5 +1,9 @@
-#NAME:Default office list
-#DESCRIPTION: Defautl url to office applications
+#NAME: Corporate office software
+#NAME[es]: Ofimática corporativa
+#NAME[ca@valencia]: Ofimàtica corporativa
+#DESCRIPTION: List of url of corporate office software
+#DESCRIPTION[es]: Lista de urls de ofimática corporativa
+#DESCRIPTION[ca@valencia]: Relació d'adreces web d'ofimàtica corporativa
 server=/microsoft.com
 server=/microsoft.net
 server=/microsoftonline
