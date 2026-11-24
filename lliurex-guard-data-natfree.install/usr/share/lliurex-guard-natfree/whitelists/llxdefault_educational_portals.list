@@ -1,0 +1,8 @@
+#NAME: Educational portals
+#NAME[es]: Portales educativos
+#NAME[ca@valencia]: Portals educatius
+#DESCRIPTION: List of url of educational portals
+#DESCRIPTION[es]: Lista de urls de portales educativos
+#DESCRIPTION[ca@valencia]: Relació d'adreces web de portals educativos
+server=/portal.edu.gva.es
+server=/aules.edu.gva.es
